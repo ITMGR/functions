@@ -14,7 +14,7 @@ schemes:
 #  - https
   - http
 # will be prefixed to all paths
-basePath: /v1
+basePath: /
 consumes:
   - application/json
 produces:
