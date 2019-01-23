@@ -8,7 +8,7 @@ info:
   description: The open source serverless platform.
   version: "0.1.29"
 # the domain of the service
-host: "192.168.99.100:8080"
+host: "192.168.99.100:180"
 # array of all schemes that your API supports
 schemes:
 #  - https
